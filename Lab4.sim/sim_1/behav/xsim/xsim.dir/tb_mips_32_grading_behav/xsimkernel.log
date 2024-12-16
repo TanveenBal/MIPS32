@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_mips_32_grading_behav/xsimk.exe -simmode gui -wdb tb_mips_32_grading_behav.wdb -simrunnum 0 -socket 52047
-Design successfully loaded
-Design Loading Memory Usage: 7936 KB (Peak: 7936 KB)
-Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 8780 KB (Peak: 8780 KB)
-Simulation CPU Usage: 0 ms
