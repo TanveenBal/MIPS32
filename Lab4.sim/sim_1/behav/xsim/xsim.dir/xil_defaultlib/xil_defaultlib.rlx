@@ -1,0 +1,23 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sim_1/new/tb_mips_32.v,1709543498,verilog,,,,tb_mips_32_grading,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/ALU.v,1708589840,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/ALUControl.v,,ALU,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/ALUControl.v,1709240863,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/EX_Forwarding_unit.v,,ALUControl,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/EX_Forwarding_unit.v,1709512220,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/EX_pipe_stage.v,,EX_Forwarding_unit,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/EX_pipe_stage.v,1709511869,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/Hazard_detection.v,,EX_pipe_stage,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/Hazard_detection.v,1709418652,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/ID_pipe_stage.v,,Hazard_detection,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/ID_pipe_stage.v,1709506837,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/IF_pipe_stage.v,,ID_pipe_stage,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/IF_pipe_stage.v,1709503153,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/control.v,,IF_pipe_stage,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/control.v,1708589840,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/data_memory.v,,control,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/data_memory.v,1708589840,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/instruction_mem.v,,data_memory,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/instruction_mem.v,1709353126,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/mips_32.v,,instruction_mem,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/mips_32.v,1709538964,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/mux.v,,mips_32,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/mux.v,1708589840,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/mux4.v,,mux2,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/mux4.v,1708589840,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/pipe_reg.v,,mux4,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/pipe_reg.v,1708589840,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/pipe_reg_en.v,,pipe_reg,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/pipe_reg_en.v,1708589840,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/register_file.v,,pipe_reg_en,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/register_file.v,1708589840,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/sign_extend.v,,register_file,,,,,,,,
+C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sources_1/new/sign_extend.v,1709417395,verilog,,C:/Users/ignit/EECS112L_Labs/Lab4/Lab4.srcs/sim_1/new/tb_mips_32.v,,sign_extend,,,,,,,,
